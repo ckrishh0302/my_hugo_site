@@ -1,1 +1,1 @@
-Error: "/home/student-02-040be39064dc/my_hugo_site/config.toml:1:1": unmarshal failed: toml: key theme is already defined
+Error: "/home/student-02-040be39064dc/my_hugo_site/config.toml:3:9": unmarshal failed: toml: incomplete number
