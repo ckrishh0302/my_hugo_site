@@ -20,7 +20,7 @@ steps:
     tar -xvf /workspace/hugo.tar.gz
     chmod 755 /workspace/firebase
     /workspace/hugo 
-    /workspace/firebase deploy --project qwiklabs-gcp-01-01b48a72b27a --non-interactive --only hosting -m "Build ${BUILD_ID}"
+    /workspace/firebase deploy --project qwiklabs-gcp-02-b1974e978320 --non-interactive --only hosting -m "Build ${BUILD_ID}"
 substitutions:
   _HUGO_VERSION: 0.96.0
 options:
